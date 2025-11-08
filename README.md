@@ -94,3 +94,8 @@ Fuel-Efficiency-Prediction-ML/
 ├── train_model.py
 ├── requirements.txt
 └── README.md
+# 1. Train the model
+python train_model.py
+
+# 2. Run the app
+streamlit run app/app.py
