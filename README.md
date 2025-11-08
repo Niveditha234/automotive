@@ -74,3 +74,23 @@ Git & GitHub
 Jupyter Notebook
 
 📂 Project Structure
+
+
+Fuel-Efficiency-Prediction-ML/
+│
+├── data/
+│   └── fuel_efficiency_dataset.csv
+│
+├── models/
+│   ├── fuel_efficiency_model.pkl
+│   └── scaler.pkl
+│
+├── app/
+│   └── app.py
+│
+├── notebooks/
+│   └── model_training.ipynb
+│
+├── train_model.py
+├── requirements.txt
+└── README.md
